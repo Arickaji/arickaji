@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Aric Kaji
 
   - 🚀 Software Engineer | Data Analyst | AI Enthusiast
-  - 🔭 Co-founder of Astrology Software & Athlink App
+  - 🔭 Co-founder of Astrology Software & Athlink App [ Kush Jariwala ] (https://github.com/KJ21-ENG)
 
 ## 🌟 About Me
   - I am a software engineer and data analyst with 4+ years of experience, specializing in full-stack development, data analytics, and AI-powered solutions. Passionate about building scalable applications and solving complex problems with technology.
